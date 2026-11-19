@@ -258,4 +258,13 @@ body {
     .navbar {
         padding: 15px;
     }
+    html {
+    scroll-behavior: smooth;
+}
+
+#about,
+#interests,
+#goals {
+    scroll-margin-top: 25px;
+    }
 }
