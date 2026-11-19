@@ -1,14 +1,14 @@
 /* 1. COLOR PALETTE: CSS VARIABLES */
 
+
 :root {
-    --primary-color: #BFA064;
-    --secondary-color: #F8E8C8;
-    --accent-color: #D4AF37;
-    --text-color: #3D3020;
-    --background-color: #FFF9EF;
+    --primary-color: #000000;
+    --secondary-color: #F5F5F5;
+    --accent-color: #000000;
+    --text-color: #000000;
+    --background-color: #FFFFFF;
     --white-color: #FFFFFF;
 }
-
 
 /* 2. GENERAL STYLES */
 
